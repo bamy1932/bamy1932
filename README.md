@@ -9,6 +9,9 @@
 - 🌱 I’m currently learning fullstack web delvelopment.
 - ⚡ Fun fact: In my free time I enjoy indoor rock climbing and am currently participating in the 1000 climb challenge at my gym.
 
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bamy1932&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **bamy1932/bamy1932** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
