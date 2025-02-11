@@ -23,6 +23,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+
 ### 🔥:My Stats:
   
 <div>
@@ -30,6 +33,7 @@ Here are some ideas to get you started:
   </a>
 </div>
 
+---
 
 ### 🛠️: Languages and Tools:
 <div align="left", width="40px", height="40px">
