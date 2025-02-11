@@ -59,3 +59,9 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vite/vite-original.svg" width="40px" height="40px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vscode/vscode-original.svg" width="40px" height="40px">
 </div>
+
+---
+
+<!-- Markdown -->
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
